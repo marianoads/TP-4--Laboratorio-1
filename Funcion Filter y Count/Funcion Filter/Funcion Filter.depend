@@ -1,0 +1,225 @@
+# depslib dependency file v1.0
+1574348950 source:d:\funcion filter\cliente.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"Cliente.h"
+	"LinkedList.h"
+
+1574340291 d:\funcion filter\cliente.h
+
+1574347263 d:\funcion filter\linkedlist.h
+
+1574346921 source:d:\funcion filter\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"LinkedList.h"
+	"Cliente.h"
+	"input.h"
+	"parser.h"
+
+1560474531 d:\funcion filter\input.h
+
+1560473243 d:\funcion filter\parser.h
+
+1574338958 source:d:\funcion filter\input.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1574344878 source:d:\funcion filter\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Cliente.h"
+
+1574347082 source:d:\funcion filter\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Cliente.h"
+	"Controller.h"
+	"LinkedList.h"
+
+1574338863 d:\funcion filter\controller.h
+
+1574346693 source:d:\funcion filter\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Cliente.h"
+
+1574394665 source:c:\users\mariano\desktop\funcion filter para parcial\funcion filter\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"LinkedList.h"
+	"Cliente.h"
+	"Controller.h"
+	"input.h"
+	"parser.h"
+
+1574393747 c:\users\mariano\desktop\funcion filter para parcial\funcion filter\linkedlist.h
+
+1574396043 c:\users\mariano\desktop\funcion filter para parcial\funcion filter\cliente.h
+
+1560474531 c:\users\mariano\desktop\funcion filter para parcial\funcion filter\input.h
+
+1574391706 c:\users\mariano\desktop\funcion filter para parcial\funcion filter\parser.h
+
+1574338958 source:c:\users\mariano\desktop\funcion filter para parcial\funcion filter\input.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1574393760 source:c:\users\mariano\desktop\funcion filter para parcial\funcion filter\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Cliente.h"
+	"Controller.h"
+
+1574396288 source:c:\users\mariano\desktop\funcion filter para parcial\funcion filter\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Cliente.h"
+	"Controller.h"
+	"LinkedList.h"
+
+1574393864 c:\users\mariano\desktop\funcion filter para parcial\funcion filter\controller.h
+	"LinkedList.h"
+
+1574346693 source:c:\users\mariano\desktop\funcion filter para parcial\funcion filter\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Cliente.h"
+
+1574396288 source:c:\users\mariano\desktop\funcion filter para parcial\funcion filter\cliente.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"Cliente.h"
+	"LinkedList.h"
+	"Controller.h"
+
+1574429567 source:c:\users\alumno\downloads\funcion filter\cliente.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"Cliente.h"
+	"LinkedList.h"
+	"Controller.h"
+
+1574429567 c:\users\alumno\downloads\funcion filter\cliente.h
+
+1574393747 c:\users\alumno\downloads\funcion filter\linkedlist.h
+
+1574393864 c:\users\alumno\downloads\funcion filter\controller.h
+	"LinkedList.h"
+
+1574425808 source:c:\users\alumno\downloads\funcion filter\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"LinkedList.h"
+	"Cliente.h"
+	"Controller.h"
+	"input.h"
+	"parser.h"
+
+1560474531 c:\users\alumno\downloads\funcion filter\input.h
+
+1574391706 c:\users\alumno\downloads\funcion filter\parser.h
+
+1574338958 source:c:\users\alumno\downloads\funcion filter\input.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1574393760 source:c:\users\alumno\downloads\funcion filter\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Cliente.h"
+	"Controller.h"
+
+1574429771 source:c:\users\alumno\downloads\funcion filter\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Cliente.h"
+	"Controller.h"
+	"LinkedList.h"
+
+1574346693 source:c:\users\alumno\downloads\funcion filter\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Cliente.h"
+
+1574461122 source:c:\users\mariano\desktop\funcion filter\cliente.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"Cliente.h"
+	"LinkedList.h"
+	"Controller.h"
+
+1574461122 c:\users\mariano\desktop\funcion filter\cliente.h
+
+1574896727 c:\users\mariano\desktop\funcion filter\linkedlist.h
+
+1574393864 c:\users\mariano\desktop\funcion filter\controller.h
+	"LinkedList.h"
+
+1574425808 source:c:\users\mariano\desktop\funcion filter\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"LinkedList.h"
+	"Cliente.h"
+	"Controller.h"
+	"input.h"
+	"parser.h"
+
+1560474531 c:\users\mariano\desktop\funcion filter\input.h
+
+1574391706 c:\users\mariano\desktop\funcion filter\parser.h
+
+1574338958 source:c:\users\mariano\desktop\funcion filter\input.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1574461299 source:c:\users\mariano\desktop\funcion filter\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Cliente.h"
+	"Controller.h"
+
+1574461218 source:c:\users\mariano\desktop\funcion filter\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Cliente.h"
+	"Controller.h"
+	"LinkedList.h"
+
+1574346693 source:c:\users\mariano\desktop\funcion filter\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Cliente.h"
+
